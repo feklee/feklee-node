@@ -1,6 +1,0 @@
-log
-node_modules
-*.rhl
-*.3dm.rhl
-yarn-debug.log*
-yarn-error.log*
